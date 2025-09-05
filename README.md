@@ -1,4 +1,4 @@
-3. **使用指令行轉換模型**：在 Jetson Nano 的終端機中，切換到您存放模型的資料夾，然後執行以下指令：
+**使用指令行轉換模型**：在 Jetson Nano 的終端機中，切換到您存放模型的資料夾，然後執行以下指令：
     
     ```bash
     yolo export model=yolov8n.pt format=engine
