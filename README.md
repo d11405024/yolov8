@@ -1,4 +1,4 @@
-####Jetson Nano部屬教學
+###Jetson Nano部屬教學
 ### 步驟一：在 Jetson Nano 上準備環境
 
 Jetson Nano 的環境配置與 PC 上的 Anaconda 環境不同。我們需要手動安裝所有必要的套件。
