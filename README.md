@@ -1,3 +1,4 @@
+Jetson Nano部屬教學
 ### 步驟一：在 Jetson Nano 上準備環境
 
 Jetson Nano 的環境配置與 PC 上的 Anaconda 環境不同。我們需要手動安裝所有必要的套件。
@@ -34,7 +35,7 @@ Jetson Nano 的環境配置與 PC 上的 Anaconda 環境不同。我們需要手
     ```
     
 
-### 步驟三：在 Jetson Nano 上執行 TensorRT 轉換
+### 步驟二：在 Jetson Nano 上執行 TensorRT 轉換
 
 檔案傳輸完成後，請在 Jetson Nano 的終端機中進行操作。
 
